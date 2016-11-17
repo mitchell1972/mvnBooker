@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="com.agilejava.docbkx:docbkx-builder-maven-plugin:2.0.13" type="repository">
+    <properties maven-id="com.agilejava.docbkx:docbkx-builder-maven-plugin:2.0.13" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/agilejava/docbkx/docbkx-builder-maven-plugin/2.0.13/docbkx-builder-maven-plugin-2.0.13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/antlr/stringtemplate/2.2/stringtemplate-2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/antlr/antlr/2.7.2/antlr-2.7.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jaxen/jaxen/1.0-FCS/jaxen-1.0-FCS.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/saxpath/saxpath/1.0-FCS/saxpath-1.0-FCS.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/saxon/saxon/6.5.3/saxon-6.5.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/maven/maven-project/2.0/maven-project-2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/maven/maven-profile/2.0/maven-profile-2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/maven/maven-model/2.0/maven-model-2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/plexus/plexus-utils/1.0.4/plexus-utils-1.0.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/plexus/plexus-container-default/1.0-alpha-8/plexus-container-default-1.0-alpha-8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.1/junit-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/maven/maven-artifact-manager/2.0/maven-artifact-manager-2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/maven/maven-repository-metadata/2.0/maven-repository-metadata-2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/maven/maven-artifact/2.0/maven-artifact-2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/maven/wagon/wagon-provider-api/1.0-alpha-5/wagon-provider-api-1.0-alpha-5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/maven/maven-plugin-api/2.0/maven-plugin-api-2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/plexus/plexus-utils/1.0.1/plexus-utils-1.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/1.1/commons-io-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
